@@ -1,0 +1,10 @@
+.btn{
+    color: white;
+    font-weight: bold;
+    background-color:blueviolet;
+    border-radius: 1em;
+}
+.linhaCinza{
+    background-color: #64717460;
+    color: white;
+}
